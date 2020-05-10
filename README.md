@@ -11,6 +11,6 @@
 www.udacity.com/course/deep-learning-nanodegree--nd101
 
 ### Certificate:
-confirm.udacity.com/H9QV92NQ
+https://graduation.udacity.com/confirm/H9QV92NQ
 
 
