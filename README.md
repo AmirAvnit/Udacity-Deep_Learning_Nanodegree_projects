@@ -6,11 +6,11 @@
 4. Generative Advcerserial Netwroks
 5. Deep Reinforement Learning
 
-\
+
 ### Udacity's Deep Learning Nanodegree program:
 www.udacity.com/course/deep-learning-nanodegree--nd101
 
 ### Certificate:
-graduation.udacity.com/nd101
+confirm.udacity.com/H9QV92NQ
 
 
